@@ -1,6 +1,6 @@
 # LNS4MMNPP
 
-This repository contains the implementation of the Learning Guided Variable Neighborhood Search for Multidimensional Multi-Way Number Partitioning Problem(MMNPP).
+This repository contains the implementation of the Learning Guided Variable Neighborhood Search for the Multidimensional Multi-Way Number Partitioning Problem (MMNPP), along with test cases, experimental results, and the appendix data files of the paper in PDF format.
 
 ## Features
 Implements a neighborhood search algorithm guided by learning algorithm.
